@@ -1,0 +1,10 @@
+{
+  "com.nautilus.realcricket": {
+    "branch": "com.nautilus.realcricket",
+    "path": "libvexture.so",
+    "file": "libvexture.so",
+    "sha256": "bae8c3e1a7d5f0c66491db5bdf068fe931998b8b3343bf2b8240f97f6c4f1b79",
+    "size": 3455888,
+    "updated_at": "2026-09-03T19:41:20+00:00"
+  }
+}
