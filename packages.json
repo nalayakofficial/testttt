@@ -1,11 +1,11 @@
 {
   "com.nautilus.realcricket": {
     "branch": "com.nautilus.realcricket",
-    "path": "libvexture.so",
-    "file": "libvexture.so",
-    "sha256": "bae8c3e1a7d5f0c66491db5bdf068fe931998b8b3343bf2b8240f97f6c4f1b79",
-    "size": 3455888,
-    "updated_at": "2026-09-03T19:49:38+00:00"
+    "path": "arm64-v8a.so",
+    "file": "arm64-v8a.so",
+    "sha256": "3cb428d14c8b37fc92c107ef3789b2f66b17d4068b8b6cd5ed496c98c5e2f526",
+    "size": 3484552,
+    "updated_at": "2026-09-04T16:12:50+00:00"
   },
   "com.facebook.katana": {
     "branch": "com.facebook.katana",
