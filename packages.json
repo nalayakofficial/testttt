@@ -10,5 +10,9 @@
   "com.facebook.katana": {
     "branch": "com.facebook.katana",
     "updated_at": "2026-09-04T16:05:10+00:00"
+  },
+  "com.google.android.play.games": {
+    "branch": "com.google.android.play.games",
+    "updated_at": "2026-09-04T16:05:53+00:00"
   }
 }
